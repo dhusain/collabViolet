@@ -1,0 +1,20 @@
+Design documentation lists all planned classes: No
+
+No meaningful design documentation in a class on OO Design? What gives?
+
+There are sufficient issues to keep each team member busy: No
+
+Nothing assigned to Matthew. Assign him to do the design documentation?
+
+The project builds and does something significant: Maybe
+
+Can't tell--no instructions, no status page
+Fix those javadoc errors!
+
+Every team member has multiple commits throughout the week: No
+
+You need to commit regularly throughout the week
+
+Individual reports: Ok
+
+

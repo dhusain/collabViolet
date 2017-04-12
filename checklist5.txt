@@ -1,0 +1,17 @@
+Issues list: No
+
+It doesn't seem that there are sufficient issues to keep each team member busy for the remainder of the project.
+
+The project builds and works: Ok
+
+Javadoc errors
+- Fix these--it's distracting and not professional at this stage of the project
+
+
+Status page: Ok
+
+Commits: 
+
+Should have more incremental commits
+
+

@@ -1,0 +1,44 @@
+Week 2
+
+There is some design documentation on the Wiki: No
+
+You need to put together something about the basic design, in particular about
+the server protocol.
+
+Each team member has made at least one commit: Ok
+
+Code builds on the command line, including javadoc and CheckStyle: No
+
+I couldn't figure this out. You have two subprojects: violet and simpleserver.
+
+How do I build violet? The package structure is wrong, so I don't think it can
+be built. 
+
+Make it so that I can run
+
+ant
+
+in the violet directory and get a build, javadoc, and a CheckStyle report. 
+
+In the simpleserver directory, I am able to run activator compile, but when
+I do, I get 
+
+[error] /home/cay/Dropbox/cs151/projects/CollabViolet1/simpleserver/app/controllers/Event.java:46: cannot find symbol
+[error]   symbol:   variable Name
+[error]   location: class controllers.Event
+[error] 		return Name;
+[error] (compile:compileIncremental) javac returned nonzero exit code
+
+Each issue doable in ≤ 3 days and has a single person assigned to it: Yes, but
+
+Is "Implement REST services" doable in 3 days or fewer? 
+
+Each team member has closed at least one issue, with # in report: No
+
+Michael closed no issues.
+
+Matthew, Daanish: No issue #s in report
+
+ 
+Each team member submitted their individual report: Ok
+

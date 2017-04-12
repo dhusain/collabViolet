@@ -1,0 +1,9 @@
+all
+checkstyle
+clean
+compile
+init
+jar
+javadoc
+jnlp
+props

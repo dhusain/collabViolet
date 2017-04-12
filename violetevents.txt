@@ -1,0 +1,65 @@
+
+-Class diagram
+	-Class object
+	-Interface object
+	-Package Object
+	-Note object
+	-Arrow/Line object
+		-Depends on
+		-Inherits from
+		-Implements interface
+		-Is associated with
+		-Is an aggregate of
+		-Is composed of
+		-Note connector
+
+-Object diagram
+	-Object object
+	-Field object
+	-Note object
+	-Arrow/Line object
+		-Object reference
+		-Associated between objects
+		-Note connector
+
+-Use case diagram
+	-Actor object
+	-Use case object
+	-Note object
+	-Arrow/Line object
+		-Iteraction
+		- <<extend>>
+		- <<include>>
+		- Generalization
+		- Note connector
+
+-State diagram
+	-Scenario start object
+	-State object
+	-Scenario end object
+	-Note object
+	-Arrow/Line object
+		-Event/Action
+		-Note connector
+
+-Activity diagram
+	-Scenario start object
+	-Activity object object
+	-Decision object object
+	-Synchronization bar object
+	-Signal sending object
+	-Signal receipt object
+	-Scenario end object
+	-Note object
+	-Arrow/Line object
+		-Transition
+		-Note connector
+
+-Sequence diagram
+	-Object lifeline object
+	-Activation bar object
+	-Note object
+	-Arrow/Line object
+		-Call / Create message
+		-Return message
+		-Note connector

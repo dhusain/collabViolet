@@ -1,0 +1,8 @@
+Starting audit...
+<<<<<<< HEAD
+[ERROR] /home/proj/violet/com/horstmann/violet/framework/ServerSync.java:42:5: Missing a Javadoc comment. [JavadocMethod]
+=======
+[ERROR] /home/danzil/CS151GroupProject/violet/com/horstmann/violet/framework/GraphPanel.java:336:4: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] /home/danzil/CS151GroupProject/violet/com/horstmann/violet/framework/ServerSync.java:42:5: Missing a Javadoc comment. [JavadocMethod]
+>>>>>>> 44393629c4f8c3007106567fca508732e5a2967f
+Audit done.

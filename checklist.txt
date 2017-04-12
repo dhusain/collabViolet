@@ -1,0 +1,15 @@
+Week 1
+
+Reports for all team members: No
+
+Swerdon no totals
+
+Wiki doc with features: No
+
+More details please! What diagrams? What will happen when one user makes a change?
+
+Issues: 
+Code and build script: Ok
+
+Are you still having problems with building the server? Your instructions are the right ones. 
+

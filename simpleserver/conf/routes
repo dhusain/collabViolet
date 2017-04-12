@@ -1,0 +1,5 @@
+GET /hello/:name    				controllers.Application.greet(name: String)
+GET /new							controllers.Application.newSession()
+GET /list							controllers.Application.listSessions()
+GET /connect/:ID					controllers.Application.connect(ID: Integer)
+GET /add							controllers.Application.add(id:Integer ?= 0, name:String ?= "")

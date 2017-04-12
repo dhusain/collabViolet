@@ -1,0 +1,24 @@
+Week 3
+
+Functional specification (what the project will do) is complete: Partial
+
+Be more explicit about the user interface. 
+There must be something for a user to identify themselves. 
+When a change happens from somewhere else, will it just appear? 
+Or will there be an indication where it came from?
+
+There is some design documentation (key classes, mechanisms, protocols): No
+
+There are sufficient issues to keep each team member busy for week 4: No
+
+You aren't making effective use of the issue tracker. An issue is assigned to a SINGLE PERSON and has a 
+SHORT DURATION (< 3 days). With 3 team members, there should be 6 - 9 open issues, keeping everyone
+busy with tasks that can be predictably accomplished.
+
+Each team member has closed at least two issues and has put the closed issue number(s) in their report: Ok
+
+The project builds and does something useful. Put instructions for building and for trying out that useful feature on the wiki: No
+
+Need build instructions! Does it do anything yet?
+
+
